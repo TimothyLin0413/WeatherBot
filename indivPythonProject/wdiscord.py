@@ -3,8 +3,8 @@ import requests
 import json 
 from weather import *
 
-token = "ODYxNDU2MTk3ODQwNTM1NTYz.YOKDmg.biPZpDChjgd7ROXdFMsAcqmITQw"
-api_key = "8dabb842e964989f9d2c564e4a3cb362"
+token = "xx" #for private concern; will not show the real token here
+api_key = "yy" # for private concern; will not show the real api_key here
 command_prefix = "Weather."
 client = discord.Client()
 
